@@ -1,6 +1,6 @@
 spring:
   application:
-    name:MicroService
+    name:MicroService1
 
     boot:
     admin:
